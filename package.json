@@ -1,6 +1,6 @@
 {
   "name": "sugo-ci-endpoint",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CI scripts for endpoint",
   "main": "lib",
   "scripts": {
